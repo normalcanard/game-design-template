@@ -10,7 +10,7 @@ Extract the files to an Obsidian vault directory from the downloaded zip file.
 
 ## Missing content
 
-Some content from the website was not copied this adaptation. That's mostly because I was lazy and didn't have time to do so, I might update it later.
+Some content from the website was not copied to this adaptation. That's mostly because I was lazy and didn't have time to do so, I might update it later.
 
 ### Here is what I know to be missing
 
