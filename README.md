@@ -4,7 +4,7 @@ This is an adaptation of the [Game design template by Rosa Carbo-Mascarell](http
 
 *Since the files are Markdown, they can be opened in most text editor. Obsidian is not needed, only intended.*
 
-## Instalation
+## Installation
 
 Extract the files to an Obsidian vault directory from the downloaded zip file.
 
